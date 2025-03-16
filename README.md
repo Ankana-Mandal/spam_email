@@ -26,16 +26,18 @@ To run this project locally, you need to have Python installed. If you don't hav
 
 ### 1. Clone this repository:
 
-```bash
+    ```bash
     git clone https://github.com/Ankana-Mandal/spam_email.git
 
-2. Install dependencies:
+#### 2. Install dependencies:
     cd spam-classification
     pip install -r requirements.txt
 
 requirements.txt should include the following libraries (if not already installed):
-numpy
-pandas
-scikit-learn
-gdown
+    numpy
+    pandas
+    scikit-learn
+    gdown
+
+
 
